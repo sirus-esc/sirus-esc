@@ -72,15 +72,28 @@
 
 ---
 
-### 🎧 Currently Listening On Spotify
+###---
+
+### 📺 Latest On YouTube
 
 <div align="center">
-  <a href="https://spotify.com">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Dynamic Banner" />
-  </a>
-</div>
 
----
+<a href="https://www.youtube.com/@YOUR_CHANNEL_OR_HANDLE" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
+</a>
+
+<br/><br/>
+
+<!-- Dynamic YouTube Activity / Video Card -->
+<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" width="60%" alt="Featured Video" style="border-radius: 10px; border: 1px solid #333;" />
+</a>
+
+<p align="center">
+  <sub>▶️ Click the thumbnail to watch my latest video / project demo</sub>
+</p>
+
+</div>
 
 <!-- Animated Contribution Snake -->
 <picture>
