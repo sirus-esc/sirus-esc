@@ -3,11 +3,6 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Hi%20there,%20I'm%20Tirthoraj%20Banik%20👋&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-<!-- Dynamic Typing Subtitle -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=BCA+Final+Year+Student+🎓;Full+Stack+%26+Backend+Enthusiast+💻;Building+Scalable+Web+Apps+🚀;Open+Source+Contributor+🌐" alt="Typing SVG" />
-</a>
-
 <p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/tirthoraj-banik-a465a6321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
